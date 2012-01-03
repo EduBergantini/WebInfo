@@ -1,0 +1,5 @@
+C:\Edays\Handlers\WebInfo\bin\Release\WebInfo.dll
+C:\Edays\Handlers\WebInfo\bin\Release\WebInfo.pdb
+C:\Edays\Handlers\WebInfo\obj\Release\ResolveAssemblyReference.cache
+C:\Edays\Handlers\WebInfo\obj\Release\WebInfo.dll
+C:\Edays\Handlers\WebInfo\obj\Release\WebInfo.pdb
