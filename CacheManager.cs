@@ -23,9 +23,10 @@ namespace WebInfo
             IDictionaryEnumerator en = context.Cache.GetEnumerator();
 			var table = new StringBuilder();
 
-            if (context.Request.QueryString["cachekey"] != null) 
+            string chaveCache = context.Request.QueryString["cachekey"];
+            if (chaveCache != null) 
             {
-                context.Cache.Remove(context.Request.QueryString["cachekey"]);
+                context.Cache.Remove(chaveCache);
             }
             
             // Total de Bytes
